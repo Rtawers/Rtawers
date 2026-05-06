@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Daniel Rodriguez Torres</h1>
+<h1 align="center"> Hola, soy Daniel Rodriguez Torres</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | USS - Perú</h3>
 
 <p align="center">
@@ -31,8 +31,6 @@ Estudiante del 8vo ciclo de Ingeniería de Sistemas con experiencia en movilidad
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -50,13 +48,13 @@ Estudiante del 8vo ciclo de Ingeniería de Sistemas con experiencia en movilidad
 
 ---
 
-## 🤝 Habilidades Blandas
+##  Habilidades Blandas
 
-- 🌍 Comunicación efectiva en entornos multiculturales
-- 👥 Trabajo en equipo y liderazgo en proyectos
-- 🔄 Adaptabilidad a nuevos entornos y tecnologías
-- 🧠 Resolución de problemas y pensamiento analítico
-- ⏰ Organización y gestión del tiempo
+-  Comunicación efectiva en entornos multiculturales
+-  Trabajo en equipo y liderazgo en proyectos
+-  Adaptabilidad a nuevos entornos y tecnologías
+-  Resolución de problemas y pensamiento analítico
+-  Organización y gestión del tiempo
 
 ---
 
@@ -76,7 +74,3 @@ Estudiante del 8vo ciclo de Ingeniería de Sistemas con experiencia en movilidad
 </p>
 
 ---
-
-<p align="center">
-  📍 Pimentel, Chiclayo - Perú | 🎂 20 de septiembre de 2002
-</p>
