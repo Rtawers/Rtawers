@@ -9,34 +9,16 @@
 
 ---
 
-## 🎯 Perfil
+##  Perfil
 
 Estudiante del 8vo ciclo de Ingeniería de Sistemas con experiencia en movilidad internacional en la **Universidad de Boyacá - Colombia**. Con sólida formación en desarrollo de software, adaptabilidad cultural y resolución de problemas. Busco oportunidades de prácticas profesionales para aplicar mis conocimientos y aportar valor a equipos innovadores.
 
----
 
-## 🎓 Formación
 
-| Período | Institución | Detalle |
-|---|---|---|
-| Abr. 2025 - Presente | **Universidad Señor de Sipán**, Chiclayo, Perú | Ingeniería de Sistemas - 8vo ciclo |
-| Ago. 2025 – Dic. 2025 | **Universidad de Boyacá**, Tunja, Colombia | Intercambio Internacional |
 
----
 
-## 💼 Experiencia
 
-### 🛒 Desarrollador Web — E-commerce Artesanos Online de Pimentel
-**Universidad Señor de Sipán** | Abr. 2025 – Jul. 2025
-
-- Desarrollé un e-commerce para digitalizar ventas de artesanos locales
-- Stack: **WordPress, PHP, HTML, CSS, JavaScript**
-- Implementé pagos con tarjetas y QR
-- Lideré la coordinación del equipo de trabajo
-
----
-
-## 🛠️ Habilidades Técnicas
+##  Habilidades Técnicas
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -78,22 +60,15 @@ Estudiante del 8vo ciclo de Ingeniería de Sistemas con experiencia en movilidad
 
 ---
 
-## 📜 Certificados
+##  Certificados
 
-- 🏆 **Engaging Stakeholders for Success** *(Jun. 2025)* — Gestión de interesados, comunicación y liderazgo en proyectos tecnológicos
-
----
-
-## 🌐 Idiomas
-
-| Idioma | Nivel |
-|---|---|
-| Español | Nativo |
-| Inglés | A2 |
+-  **Engaging Stakeholders for Success** *(Jun. 2025)* — Gestión de interesados, comunicación y liderazgo en proyectos tecnológicos
 
 ---
 
-## 📊 Estadísticas GitHub
+
+
+##  Estadísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rtawers&show_icons=true&theme=tokyonight" alt="stats"/>
