@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Daniel Rodriguez Torres</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Desarrollador Web | USS - Perú</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas | USS - Perú</h3>
 
 <p align="center">
   <a href="mailto:rtawers2000@gmail.com">📧 rtawers2000@gmail.com</a> •
